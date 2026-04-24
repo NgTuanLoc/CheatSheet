@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Write a Good Resume/PART 3. EXAMPLES AND INSPIRATION/Chapter 11 Resume Templates.md",
-                "mode": "source",
+                "file": "Coding Interview Patterns/1. Two Pointers/1. Introduction to Two Pointers.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 11 Resume Templates"
+              "title": "1. Introduction to Two Pointers"
             }
           }
         ]
@@ -185,6 +185,8 @@
   },
   "active": "fef756eee3a78b58",
   "lastOpenFiles": [
+    "Coding Interview Patterns/1. Two Pointers/6. Shift Zeros to the End.md",
+    "How to Write a Good Resume/PART 3. EXAMPLES AND INSPIRATION/Chapter 11 Resume Templates.md",
     "System Design/assets/9-design-a-web-crawler/9-design-a-web-crawler-figure-10.svg",
     "System Design/assets/9-design-a-web-crawler/9-design-a-web-crawler-figure-9.svg",
     "System Design/assets/9-design-a-web-crawler/9-design-a-web-crawler-figure-8.svg",
@@ -196,7 +198,6 @@
     "System Design/assets/9-design-a-web-crawler/9-design-a-web-crawler-figure-2.svg",
     "System Design/assets/9-design-a-web-crawler/9-design-a-web-crawler-figure-1.png",
     "System Design/assets/9-design-a-web-crawler",
-    "System Design/assets/8-design-a-url-shortener/8-design-a-url-shortener-figure-8.png",
     "System Design/assets/8-design-a-url-shortener",
     "System Design/assets/7-design-a-unique-id-generator-in-distributed-systems",
     "System Design/assets/6-design-a-key-value-store",
@@ -212,7 +213,6 @@
     "Coding Interview Patterns/1. Two Pointers/7. Next Lexicographical Sequence.md",
     "Coding Interview Patterns/1. Two Pointers/4. Is Palindrome Valid.md",
     "Coding Interview Patterns/1. Two Pointers/1. Introduction to Two Pointers.md",
-    "Coding Interview Patterns/1. Two Pointers/6. Shift Zeros to the End.md",
     "Coding Interview Patterns/1. Two Pointers/3. Triplet Sum.md",
     "Object-Oriented Design/4. Design a Parking Lot.md",
     "Generative AI System Design/1. Introduction and Overview.md",
