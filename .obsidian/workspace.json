@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generative AI System Design/1. Introduction and Overview.md",
+                "file": "Coding Interview Patterns/1. Two Pointers/7. Next Lexicographical Sequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction and Overview"
+              "title": "7. Next Lexicographical Sequence"
             }
           }
         ]
@@ -183,8 +183,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "6a1ca7d14eb9e45a",
+  "active": "fef756eee3a78b58",
   "lastOpenFiles": [
+    "Coding Interview Patterns/1. Two Pointers/4. Is Palindrome Valid.md",
+    "Coding Interview Patterns/1. Two Pointers/1. Introduction to Two Pointers.md",
+    "Coding Interview Patterns/assets/9. Intervals/4-largest-overlap-of-intervals/4-largest-overlap-of-intervals-figure-9.svg",
+    "Coding Interview Patterns/assets/9. Intervals/4-largest-overlap-of-intervals/4-largest-overlap-of-intervals-figure-8.svg",
+    "Coding Interview Patterns/assets/9. Intervals/4-largest-overlap-of-intervals/4-largest-overlap-of-intervals-figure-7.svg",
+    "Coding Interview Patterns/assets/9. Intervals/4-largest-overlap-of-intervals/4-largest-overlap-of-intervals-figure-6.svg",
+    "Coding Interview Patterns/assets/9. Intervals/4-largest-overlap-of-intervals/4-largest-overlap-of-intervals-figure-5.svg",
+    "Coding Interview Patterns/assets/9. Intervals/4-largest-overlap-of-intervals/4-largest-overlap-of-intervals-figure-4.svg",
+    "Coding Interview Patterns/assets/9. Intervals/4-largest-overlap-of-intervals/4-largest-overlap-of-intervals-figure-3.svg",
+    "Coding Interview Patterns/assets/9. Intervals/4-largest-overlap-of-intervals/4-largest-overlap-of-intervals-figure-2.svg",
+    "Coding Interview Patterns/assets/9. Intervals/4-largest-overlap-of-intervals/4-largest-overlap-of-intervals-figure-1.svg",
+    "Coding Interview Patterns/assets/9. Intervals/3-identify-all-interval-overlaps/3-identify-all-interval-overlaps-figure-8.svg",
+    "Coding Interview Patterns/assets/8. Heaps/5-sort-a-k-sorted-array",
+    "Coding Interview Patterns/assets/7. Stacks/7-maximums-of-sliding-window",
+    "Coding Interview Patterns/assets/6. Binary Search/2-find-the-insertion-index",
+    "Coding Interview Patterns/assets/2. Hash Maps And Sets/5-longest-chain-of-consecutive-numbers",
+    "Coding Interview Patterns/assets/2. Hash Maps And Sets/2-pair-sum-unsorted",
+    "Coding Interview Patterns/assets/18. Bit Manipulation/3-lonely-integer",
+    "Coding Interview Patterns/assets/17. Sort And Search/5-dutch-national-flag",
+    "Coding Interview Patterns/assets/17. Sort And Search/3-sort-array",
+    "Coding Interview Patterns/assets/16. Gready/2-jump-to-the-end",
+    "Coding Interview Patterns/assets/15. Dynamic Programming/8-maximum-subarray-sum",
+    "Coding Interview Patterns/1. Two Pointers/6. Shift Zeros to the End.md",
+    "Coding Interview Patterns/1. Two Pointers/3. Triplet Sum.md",
+    "Object-Oriented Design/5. Design a Movie Ticket Booking System.md",
+    "Object-Oriented Design/4. Design a Parking Lot.md",
+    "Object-Oriented Design/3. OOP Fundamentals.md",
+    "Generative AI System Design/1. Introduction and Overview.md",
     "Generative AI System Design/11. Text-to-Video Generation.md",
     "Generative AI System Design/10. Personalized Headshot Generation.md",
     "Generative AI System Design/9. Text-to-Image Generation.md",
@@ -195,34 +223,12 @@
     "Generative AI System Design/4. ChatGPT Personal Assistant Chatbot.md",
     "Generative AI System Design/3. Google Translate.md",
     "Generative AI System Design/2. Gmail Smart Compose.md",
-    "Generative AI System Design/1. Introduction and Overview.md",
     "Mobile System Design/1. Introduction.md",
-    "Generative AI System Design",
     "Mobile System Design/11. Quick Reference Cheat Sheet for MSD Interview.md",
     "Mobile System Design/10. Mobile System Design Building Blocks.md",
     "Mobile System Design/9. YouTube app.md",
     "Mobile System Design/8. Google Drive app.md",
     "Mobile System Design/7. Hotel reservation app.md",
-    "Mobile System Design/6. Pagination library.md",
-    "Mobile System Design/5. Stock trading app.md",
-    "Mobile System Design/4. Chat app.md",
-    "Mobile System Design/3. News feed app.md",
-    "Mobile System Design/2. A framework for Mobile SD interviews.md",
-    "Machine Learning System Design/1. Introduction and Overview.md",
-    "Mobile System Design",
-    "Machine Learning System Design/11. People You May Know.md",
-    "Machine Learning System Design/10. Personalized News Feed.md",
-    "Machine Learning System Design/9. Similar Listings on Vacation Rental Platforms.md",
-    "Machine Learning System Design",
-    "raw",
-    "Object-Oriented Design",
-    "How to Write a Good Resume/PART 3. EXAMPLES AND INSPIRATION",
-    "How to Write a Good Resume/PART 2. WRITING THE RESUME",
-    "How to Write a Good Resume/PART 1. RESUMES AND THE HIRING PROCESS",
-    "How to Write a Good Resume",
-    "Coding Interview Patterns/19. Math and Geometry",
-    "figure-1.png",
-    "figure-1 1.png",
-    "System Design/images/Screen Shot 2026-04-22 at 22.43.21.png"
+    "Mobile System Design/6. Pagination library.md"
   ]
 }
